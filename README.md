@@ -7,5 +7,6 @@
 3. Run `flask db upgrade`
 
 ### Execute
+1. Run `source .flaskenv` to add env variables
 1. Run server using `flask run`
 2. Run client using `python3 client.py`
